@@ -57,4 +57,7 @@ let customerId = cid;
 function addNum(x, y) {
     return x + y;
 }
-console.log(addNum(5, 10));
+// Void
+function log(message) {
+    console.log(message);
+}
